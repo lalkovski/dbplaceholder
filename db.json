@@ -1,0 +1,49 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "title": "Uber",
+      "categoryId": 1,
+      "revenue": "$9.29 billion",
+      "picture": "https://helios-i.mashable.com/imagery/articles/03y6VwlrZqnsuvnwR8CtGAL/hero-image.fill.size_1248x702.v1623372852.jpg",
+      "description": "Uber Technologies, Inc., commonly referred to as Uber, provides ride-hailing services, food delivery, and freight transport. The company is headquartered in San Francisco and operates in approximately 70 countries and 10,500 cities worldwide."
+    },
+    {
+      "id": 2,
+      "title": "Sinch",
+      "categoryId": 3,
+      "revenue": "$2.68 billion",
+      "picture": "https://media.licdn.com/dms/image/C4D12AQHqQYXBgZ1YYQ/article-cover_image-shrink_720_1280/0/1592307536526?e=2147483647&v=beta&t=-0MCKsH0-1Av1QxlWaefLNT5R8yOKMGOj-oGb_-VNvI",
+      "description": "Sinch, formerly CLX Communications, is a telecommunications and cloud communications platform as a service company. Headquartered in Stockholm, Sweden, Sinch also has offices in over 60 cities worldwide, including Atlanta, Chicago, London, Madrid, Singapore and Sydney."
+    },
+    {
+      "id": 3,
+      "title": "Lufthansa",
+      "categoryId": 1,
+      "revenue": "€32.8 billion",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lufthansa_Logo_2018.svg/2560px-Lufthansa_Logo_2018.svg.png",
+      "description": "Deutsche Lufthansa AG / Lufthansa German Airlines, commonly shortened to Lufthansa, serves as the flag carrier of Germany."
+    },
+    {
+      "id": 4,
+      "title": "Budweiser",
+      "categoryId": 3,
+      "revenue": "$59.574 billion",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Budweiser_Anheuser-Busch_logo.svg/1200px-Budweiser_Anheuser-Busch_logo.svg.png",
+      "description": "Budweiser is an American-style pale lager, a brand of Belgian company AB InBev. Introduced in 1876 by Carl Conrad & Co. of St. Louis, Missouri, Budweiser has become a large selling beer company in the United States."
+    },
+    {
+      "id": 5,
+      "title": "Sennheiser",
+      "categoryId": 2,
+      "revenue": "€507.4 million",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sennheiser_logo_%282019%29.svg/1024px-Sennheiser_logo_%282019%29.svg.png",
+      "description": "Sennheiser electronic GmbH & Co. KG (/ˈzɛnhaɪzər/, German pronunciation: [zɛnˈhaɪ̯zɐ]) is a German audio equipment manufacturer headquartered in Wedemark. Sennheiser specializes in equipment for both the consumer and professional audio markets, including microphones, headphones, and loudspeakers."
+    }
+  ],
+  "categories": [
+    { "id": 1, "name": "Transport" },
+    { "id": 2, "name": "Consumer Electronics" },
+    { "id": 3, "name": "Other" }
+  ]
+}
