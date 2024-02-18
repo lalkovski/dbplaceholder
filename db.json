@@ -2,7 +2,7 @@
   "brands": [
     {
       "id": 1,
-      "title": "Uber",
+      "name": "Uber",
       "categoryId": 1,
       "revenue": "$9.29 billion",
       "picture": "https://helios-i.mashable.com/imagery/articles/03y6VwlrZqnsuvnwR8CtGAL/hero-image.fill.size_1248x702.v1623372852.jpg",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "title": "Sinch",
+      "name": "Sinch",
       "categoryId": 3,
       "revenue": "$2.68 billion",
       "picture": "https://media.licdn.com/dms/image/C4D12AQHqQYXBgZ1YYQ/article-cover_image-shrink_720_1280/0/1592307536526?e=2147483647&v=beta&t=-0MCKsH0-1Av1QxlWaefLNT5R8yOKMGOj-oGb_-VNvI",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "title": "Lufthansa",
+      "name": "Lufthansa",
       "categoryId": 1,
       "revenue": "€32.8 billion",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Lufthansa_Logo_2018.svg/2560px-Lufthansa_Logo_2018.svg.png",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "title": "Budweiser",
+      "name": "Budweiser",
       "categoryId": 3,
       "revenue": "$59.574 billion",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Budweiser_Anheuser-Busch_logo.svg/1200px-Budweiser_Anheuser-Busch_logo.svg.png",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "title": "Sennheiser",
+      "name": "Sennheiser",
       "categoryId": 2,
       "revenue": "€507.4 million",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sennheiser_logo_%282019%29.svg/1024px-Sennheiser_logo_%282019%29.svg.png",
